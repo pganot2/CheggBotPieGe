@@ -10,7 +10,7 @@ client = commands.Bot(command_prefix, intents = discord.Intents.all(), activity 
 for i in range(len(cogs)):
     cogs[i].setup(client)
 
-TOKEN = 'OTY0MDk2MTE5NTk4NjM3MDU2.GzrRvi.ASFBaF72FuWNTrl6RQmhjMTkzvoIY_jguiOM5w'
+TOKEN = 'ENCRYPTED TOKEN MF'
 
 # WE'RE IN A NEW BRANCH NOW
 

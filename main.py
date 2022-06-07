@@ -12,7 +12,7 @@ for i in range(len(cogs)):
 
 TOKEN = 'ENCRYPTED'
 
-# SHITS JUST TOO EASY
+# WE'RE IN A NEW BRANCH NOW
 
 client.run(TOKEN)
 print(TOKEN)

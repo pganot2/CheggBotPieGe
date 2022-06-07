@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 
 # Client Code
+# ANOTHER CHANGE
 class Chegg(commands.Cog):
     def _init_(self, client):
         self.client = client

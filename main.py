@@ -12,5 +12,7 @@ for i in range(len(cogs)):
 
 TOKEN = 'ENCRYPTED'
 
+# SHITS JUST TOO EASY
+
 client.run(TOKEN)
 print(TOKEN)

@@ -11,5 +11,7 @@ class Chegg(commands.Cog):
         await ctx.send(link)
         print(link)
 
+# test func branch
+
 def setup(client):
     client.add_cog(Chegg(client))

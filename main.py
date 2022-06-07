@@ -10,7 +10,7 @@ client = commands.Bot(command_prefix, intents = discord.Intents.all(), activity 
 for i in range(len(cogs)):
     cogs[i].setup(client)
 
-TOKEN = 'OTY0MDk2MTE5NTk4NjM3MDU2.Ylfqeg.9W6jafWTZ99xdA2TqMDeAjea3OE'
+TOKEN = 'ENCRYPTED'
 
 client.run(TOKEN)
 print(TOKEN)
